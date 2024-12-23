@@ -1,0 +1,75 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos López",
+      "empresa": "Tech Solutions",
+      "email": "carlos.lopez@gmail.com",
+      "telefono": "5512345678",
+      "notas": "trytu",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "María González",
+      "telefono": 5587654321,
+      "email": "maria.gonzalez@yahoo.com",
+      "empresa": "Innovate Inc."
+    },
+    {
+      "id": "3",
+      "nombre": "Andrés Martínez",
+      "telefono": 5578945612,
+      "email": "andres.martinez@hotmail.com",
+      "empresa": "Martínez Construcciones"
+    },
+    {
+      "id": "4",
+      "nombre": "Sofía Hernández",
+      "telefono": 5598765432,
+      "email": "sofia.hernandez@empresa.com",
+      "empresa": "Consultoría Global"
+    },
+    {
+      "id": "5",
+      "nombre": "José Ramírez",
+      "telefono": 5543219876,
+      "email": "jose.ramirez@ejemplo.com",
+      "empresa": "Ramírez Exportaciones"
+    },
+    {
+      "id": "6",
+      "nombre": "Ana Torres",
+      "telefono": 5511122233,
+      "email": "ana.torres@gmail.com",
+      "empresa": "Torres y Asociados"
+    },
+    {
+      "id": "7",
+      "nombre": "Luis Fernández",
+      "telefono": 5522334455,
+      "email": "luis.fernandez@correo.com",
+      "empresa": "Fernández & Co."
+    },
+    {
+      "id": "8",
+      "nombre": "Valeria Ortiz",
+      "telefono": 5599988776,
+      "email": "valeria.ortiz@valsolutions.com",
+      "empresa": "Val Solutions"
+    },
+    {
+      "id": "9",
+      "nombre": "Daniela Pérez",
+      "telefono": 5544567890,
+      "email": "daniela.perez@proyectos.com",
+      "empresa": "Proyectos Pérez"
+    },
+    {
+      "id": "10",
+      "nombre": "Juan Cruz",
+      "telefono": 5580011223,
+      "email": "juan.cruz@ventasglobal.com",
+      "empresa": "Ventas Globales"
+    }
+  ]
+}
